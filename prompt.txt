@@ -1,0 +1,4 @@
+Generate a detailed summary describing the most important points discussed in the meeting:
+
+
+<<SUMMARY>>
